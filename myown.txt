@@ -132,7 +132,7 @@ Fatman: "What's he look like?"
  Tonto: "He's coming up!"
 (Tonto's head is blown up)
 Fatman: "Somebody's coming up! Somebody serious!"
-	-- L√®on - The Professional
+	-- LËon - The Professional
 %
          Mayor: "I don't want any more trouble like you had last year in the 
                  Fillmore District. Understand? That's my policy."
@@ -164,7 +164,7 @@ You do that, a quart of blood will drop out of a man's body.
 
 Nippers, the second on my list, was a whiskered, sallow, and, upon 
 the whole, rather piratical-looking young man of about five and twenty. 
-I always deemed him the victim of two evil powers‚Äîambition and 
+I always deemed him the victim of two evil powersóambition and 
 indigestion.
 	-- Herman Melville, Bartleby The Scrivener
 %
@@ -193,12 +193,12 @@ Hotel Clerk: "No."
 Hotel Clerk: "That is not my dog."
 %
 Mathilda: "Sleep well?"
-    L√©on: "I never really sleep well. Got one eye open, always."
+    LÈon: "I never really sleep well. Got one eye open, always."
 Mathilda: "Yeah, I forgot. You know, I never saw someone with one eye open 
           snore so much."
 	-- Leon - The Professional
 %
-L√©on: "Ey. What about the ring trick. You know that one?"
+LÈon: "Ey. What about the ring trick. You know that one?"
 	-- Leon - The Professional
 %
 "The rifle is the first weapon you learn how to use.
@@ -220,7 +220,7 @@ L√©on: "Ey. What about the ring trick. You know that one?"
 %
 "Most seamen lead, if one may so express it, a sedentary life. Their 
  minds are of the stay-at-home order, and their home is always with 
- them‚Äîthe ship; and so is their country‚Äîthe sea. One ship is very much
+ themóthe ship; and so is their countryóthe sea. One ship is very much
  like another, and the sea is always the same."
 	-- Joseph Conrad, Heart of Darkness 
 %
@@ -415,7 +415,7 @@ Sheldon: "A woman is like an egg salad sandwich
  and I would take from the ground some of the blue-white poison 
  that makes statues of men; and I would make a statue of myself, 
  lying on my back, grinning horribly, and thumbing my nose at 
- You Know Who.‚Äù
+ You Know Who.î
 	-- Kurt Vonnegut, "Cat's Cradle"
 %
 "Midget, midget, midget, how he struts and winks,
@@ -430,7 +430,7 @@ that's gonna be crappy lemonade.
 	-- Arthur C. Clarke
 %
 "You can come up with anything you like so far as the story 
- goes," they told me, ‚Äúbut there are two things that you 
+ goes," they told me, ìbut there are two things that you 
  mustn't mess around with. The first is the character of Bond.
  That's fixed. The second is the girl formula. That is also 
  fixed."
@@ -468,7 +468,7 @@ that's gonna be crappy lemonade.
  kein Alkohol, kein Nikotin.
  Brauch keine Hilfe, kein Koffein.
  Doch Dynamit und Terpentin -
- Ich brauche √ñl f√ºr Gasolin,
+ Ich brauche ÷l f¸r Gasolin,
  explosiv wie Kerosin,
  mit viel Oktan und frei von Blei:
  einen Kraftstoff wie Benzin"
