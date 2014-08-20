@@ -16,4 +16,15 @@
  'Dijkstra would not have liked this', well that would be enough immortality
  for me.
     -- Edsger Dijkstra
-
+%
+"Don't compete with me: firstly, I have more experience, and secondly, I have 
+ chosen the weapons."
+    -- Edsger Dijkstra
+%
+"You know what incurable diseases do: they invite the quacks and charlatans in."
+    -- Edsger Dijkstra
+%
+"The question of whether Machines Can Think is about as relevant as the
+ question of whether Submarines Can Swim."
+    -- Edsger Dijkstra
+    
