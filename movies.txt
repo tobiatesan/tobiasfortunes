@@ -26,7 +26,7 @@ Fatman: "What's he look like?"
  Tonto: "He's coming up!"
 (Tonto's head is blown up)
 Fatman: "Somebody's coming up! Somebody serious!"
-	-- LÃ¨on - The Professional
+	-- Lèon - The Professional
          Mayor: "I don't want any more trouble like you had last year in the 
                  Fillmore District. Understand? That's my policy."
 Harry Callahan: "Yeah, well, when an adult male is chasing a female with
@@ -76,12 +76,12 @@ Hotel Clerk: "No."
 Hotel Clerk: "That is not my dog."
 %
 Mathilda: "Sleep well?"
-    LÃ©on: "I never really sleep well. Got one eye open, always."
+    Léon: "I never really sleep well. Got one eye open, always."
 Mathilda: "Yeah, I forgot. You know, I never saw someone with one eye open 
           snore so much."
 	-- Leon - The Professional
 %
-LÃ©on: "Ey. What about the ring trick. You know that one?"
+Léon: "Ey. What about the ring trick. You know that one?"
 	-- Leon - The Professional
 %
 "The rifle is the first weapon you learn how to use.
