@@ -58,8 +58,8 @@ You do that, a quart of blood will drop out of a man's body.
 %
 Mortimer Duke: "I don't want Winthorpe back, after what he's done."
 Randolph Duke: "You mean, keep *Valentine* on as managing director?"
-Mortimer Duke: "Do you really believe I would have a *nigger* run our 
-                family business, Randolph?"
+Mortimer Duke: "Do you really believe I would have a *nigger* run our family 
+                business, Randolph?"
 	-- Trading Places
 %
 Mortimer Duke: "Well? What do you think, Valentine?"
@@ -86,8 +86,8 @@ Léon: "Ey. What about the ring trick. You know that one?"
 %
 "The rifle is the first weapon you learn how to use.
  It lets you keep your distance from the client. 
- The closer you get to being a pro, the closer you can get to the 
- client. The knife, for example, is the last thing you learn."
+ The closer you get to being a pro, the closer you can get to the client. 
+ The knife, for example, is the last thing you learn."
 	-- Leon - The Professional
 %
     Leon: You need some time to grow up a little.
