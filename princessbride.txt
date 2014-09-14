@@ -1,5 +1,5 @@
-"I've hired you to help me start a war. It's an prestigious line of work, with 
- a long and glorious tradition."
+"I've hired you to help me start a war. It's an prestigious line of
+ work, with a long and glorious tradition."
 	-- The Princess Bride
 %
 "Hello! My name is Inigo Montoya! 
@@ -20,13 +20,13 @@ Inigo Montoya: "You have a great gift for rhyme."
 
 	-- The Princess Bride
 %
-       Buttercup: "And to think... all this time it was your cup that was 
-                   poisoned."
+       Buttercup: "And to think... all this time it was your cup that
+                   was poisoned."
 The Man in Black: "They were both poisoned. I spent the last few years building 
                    up an immunity to iocane powder."
     -- The Princess Bride 
 %
       Vizzini: "He didn't fall? Inconceivable!"
-Inigo Montoya: "You keep using that word. I do not think it means what you 
-                think it means."
+Inigo Montoya: "You keep using that word. I do not think it means what
+                you think it means."
 	-- The Princess Bride    

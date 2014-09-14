@@ -1,30 +1,31 @@
-"If you don't fail at least 90 percent of the time, you're not aiming high 
- enough."
+"If you don't fail at least 90 percent of the time, you're not aiming
+ high enough."
 	-- Alan Kay
 %
-"Most software today is very much like an Egyptian pyramid with millions of 
- bricks piled on top of each other, with no structural integrity, but just done 
- by brute force and thousands of slaves."
+"Most software today is very much like an Egyptian pyramid with 
+ millions of bricks piled on top of each other, with no structural 
+ integrity, but just done by brute force and thousands of slaves."
 	-- Alan Kay
 %
 "Computer science is no more about computers than astronomy is about 
  telescopes."
 	-- Edsger Dijkstra
 %
-"If 10 years from now, when you are doing something quick and dirty, you 
- suddenly visualize that I am looking over your shoulders and say to yourself: 
- 'Dijkstra would not have liked this', well that would be enough immortality
- for me.
+"If 10 years from now, when you are doing something quick and dirty,
+ you suddenly visualize that I am looking over your shoulders and say
+ to yourself: 'Dijkstra would not have liked this', well that would 
+ be enough immortality for me.
     -- Edsger Dijkstra
 %
-"Don't compete with me: firstly, I have more experience, and secondly, I have 
- chosen the weapons."
+"Don't compete with me: firstly, I have more experience, and
+ secondly, I have chosen the weapons."
     -- Edsger Dijkstra
 %
-"You know what incurable diseases do: they invite the quacks and charlatans in."
+"You know what incurable diseases do: they invite the quacks and
+ charlatans in."
     -- Edsger Dijkstra
 %
-"The question of whether Machines Can Think is about as relevant as the
- question of whether Submarines Can Swim."
+"The question of whether Machines Can Think is about as relevant
+ as the question of whether Submarines Can Swim."
     -- Edsger Dijkstra
     
