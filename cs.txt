@@ -28,4 +28,16 @@
 "The question of whether Machines Can Think is about as relevant
  as the question of whether Submarines Can Swim."
     -- Edsger Dijkstra
-    
+%
+"During that heady time, [...] a team from the OMG tried to look at
+ standardization but got only an open letter of protest from all the
+ key methodologists. This reminds me of an old joke. Question: what
+ is the difference between a methodologist and a terrorist? Answer:
+ you can negotiate with a terrorist.)"
+    -- Martin Fowler, "UML Distilled"
+%
+"[Rational Software] held a well-attended party to celebrate the
+ release of the 0.8 draft [of UML]. (The highlight of the party was 
+ the first public display of Jim Rumbaugh's singing; we all hope it's
+ also the last.)"
+    -- Martin Fowler, "UML Distilled"      
